@@ -1,0 +1,4 @@
+cluster,green_cover_percentage,air_quality_index,renewable_energy_usage,public_transport_access,urban_sustainability_score
+0,0.7793,0.4952,0.582,0.538,0.6377
+1,0.2777,0.5166,0.7439,0.5012,0.4518
+2,0.3644,0.4772,0.2261,0.4601,0.3306
