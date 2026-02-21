@@ -1,2 +1,2 @@
-# Nov2025_Subhadip_Pal_CitiesOfTomorrow-
+# CitiesOfTomorrow-
 Sustainable Urban Planning &amp; Landscape 
